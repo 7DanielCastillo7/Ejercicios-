@@ -22,7 +22,7 @@ int main(){
     std::cout<< "Ingrese el quinto valor:";
     std::cin>> num5;
     int suma = num1 + num2 + num3 + num4 + num5;
-    std::cout<< "El resultado dela suma de los 5 numeros ingresados es: " << suma << std::endl;
+    std::cout<< "El resultado de la suma de los 5 numeros ingresados es: " << suma << std::endl;
     return 0;
 
 }
